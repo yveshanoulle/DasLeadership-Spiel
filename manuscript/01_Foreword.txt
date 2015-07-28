@@ -1,0 +1,38 @@
+# Vorwort {#Vorwort}
+
+Von all den Leuten, die ein Vorwort zu diesem Büchlein schreiben könnten und darin all die Dinge aufzählen, die es so wunderbar machen, dass Sie das dämliche Vorwort überspringen und sofort mit der Lektüre des Haupttextes beginnen sollten… bin ich wahrscheinlich am wenigsten geeignet.
+
+Um zu erklären, warum das so ist, muss ich Ihnen eine kleine Geschichte erzählen, wenn Sie mir die Zeit genehmigen. Im Grunde wird Ihnen diese Geschichte sogar verraten, warum das Buch so wunderbar ist. Wenn Sie also bis hierhin gelesen haben, lesen Sie bitte weiter…
+
+Meine erste Begegnung mit Yves und Ignace war 2004 in Machelen, einer Stadt nahe Brüssel. Anlass war der XP Day BeNeLux, eine eintägige Konferenz für alle, die sich für Extreme Programming und andere agile Methoden der Softwareentwicklung interessierten.
+
+Zu jener Zeit begeisterte ich mich für das Konzept selbst-organisierter Teams, das meiner Ansicht nach inherent paradox war: Wenn ein Team sich nicht selbst organisieren möchte, wird es schwierig sein, ihm dies aufzuzwingen. Mein Kollege Emmanuel Gaillot und ich hatten mithilfe von Emmanuels Theatererfahrung eine Initiative gestartet, um diesem Paradoxon auf den Grund zu gehen und Einblicke von Leuten zu gewinnen, die diesen Workshop besuchten. Ich war aus Paris angereist, um diesen Workshop zu leiten.
+
+Ignace war einer der Teilnehmer. Er fand die Idee interessant und diskutierte sie mit Yves. Offenbar inspirierte sie sie dazu, einen neuen Workshop zu konzipieren, einen, der dem breiteren Thema „Leadership“ gewidmet war. Er war wesentlich fundierter und ausgefeilter als mein eigener Ansatz.
+
+Als wir uns 2005 das nächste Mal trafen, beim XP Day in Rotterdam, präsentierten Yves und Ignace das Leadership-Spiel. Ich hatte das große Pech, zur selben Zeit eine Session zu halten, und konnte nicht daran teilnehmen.
+
+Danach traf ich ständig Leute, die vom Leadership Game schwärmten. Nicht nur in Rotterdam: 2006 organisierte ich den ersten XP Day in Frankreich und wollte selbst sehen, warum jeder so viel Aufhebens um das Spiel machte. Yves und Ignace erklärten sich bereit, nach Paris zu kommen und das Spiel dort zu präsentieren.
+
+Wenn Sie jemals mit dem Gedanken gespielt haben, eine Konferenz wegen all der interessanten Sessions zu organisieren, die Sie dann besuchen könnten, sei Ihnen hiermit geraten: Schlagen Sie es sich aus dem Kopf. Als Organisator bin ich die ganze Zeit herumgelaufen, um zu sehen, ob auch alle zufrieden waren, und habe alle Sessions verpasst.
+
+Auch das Leadership-Spiel verpasste ich wieder. Und wieder schwärmte jeder davon.
+
+Das wurde zu einer Art Tradition: Yves und Ignace kamen 2007 mit dem Leadership-Spiel nach Paris zurück. Vielleicht hätte ich ihm in jenem Jahr beiwohnen können; im zweiten Jahr läuft eine Konferenz auch ohne die ständige Präsenz der Organisatoren. Aber das Spiel war beliebt und die Plätze begrenzt – hätte ich es besucht, wäre jemand anderes nicht in den Genuss gekommen, und  mir schien das ungerecht. 2007 verpasste ich das Leadership-Spiel also ein weiteres Mal.
+
+Ich werde mich jetzt kurz fassen, weil Sie wahrscheinlich erkannt haben, worauf ich hinaus möchte: Traurig aber wahr, in all den Jahren schaffte ich es nie, am Leadership-Spiel teilzunehmen.
+
+Das hält mich nicht davon ab, das Spiel wärmstens zu empfehlen und Yves und Ignace mein Lob auszusprechen dafür, dass sie es über die Jahre auf bemerkenswerte Weise optimiert und verfeinert haben. Was Sie jetzt auf Ihrem Kindle, iPad, Kobo oder einem anderen Gerät lesen, ist ein wunderbares Geschenk von ihnen an Sie.
+
+Einen Kurs für erfahrungsbasiertes Lernen auf die Beine zu stellen ist schwierig. Was dabei oft falsch gemacht wird, ist, dass ein Spiel oder Aktivität entsteht, das einen dazu „zwingt“, zu einem vorgefassten Ergebnis zu kommen. Zum Beispiel ein Spiel, das auf agile Vorgehensweisen getrimmt ist, so dass, wenn man es auf die agile und die traditionelle Art probiert, nur der agile Weg zu Erfolg führt.
+
+Das ist kein erfahrungsbasiertes Lernen (siehe https://leanpub.com/Experiential), sondern Manipulation.
+
+Obwohl ich nie an dem Spiel teilgenommen habe, kenne ich Yves und Ignace gut genug, um sicher zu sein, dass das nicht ihr Stil ist. Selbst wenn Sie sie noch nicht kennen, werden Sie beim Durchblättern des Buchs merken, wie tiefgründig ihre Überlegungen zum Thema Leadership sind. Diese Tiefgründigkeit spiegelt sich auch in der Tatsache wider, dass das Spiel nicht blind den einen oder anderen Führungsstil befürwortet, sondern alle im Raum dazu auffordert, sich über die Summe ihrer Lebenserfahrungen Gedanken zu machen, die letztendlich dazu führt, dass sie eine bestimmte Art der Führung bevorzugen. Dies wiederum veranlasst sie dazu, sich gründlich mit dem Zweck und den unterschiedlichen Facetten von Leadership auseinanderzusetzen.
+
+Das ist sehr beeindruckend. Genau darum geht es bei erfahrungsbasiertem Lernen, und genau deshalb schwärmen seit 2006 alle vom Leadership-Spiel.
+And now you hold in your hands the key to making that happen even if you don't have Yves and Ignace in the room to do it for you.
+
+Worauf warten Sie noch?
+
+[Laurent Bossavit](https://leanpub.com/u/laurentbossavit)
