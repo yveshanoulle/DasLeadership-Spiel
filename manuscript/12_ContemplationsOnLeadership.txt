@@ -1,105 +1,90 @@
-#Contemplation on leadership {#ContemplationOnLeadership}
+# Überlegungen zum Thema Leadership {#ContemplationOnLeadership}
 
 %% TODO: chapter and sub-chapter numbers!
 %% TODO: References!
 
-Some projects are guided, others are not. When there is a leader we may notice that there is quite a difference in leadership. We can even say there is a lot of difference between leaders. Even speaking of different styles of leadership is putting it mildly, not only do we notice a difference in the approach of fulfilling a task, but also that different leaders take on different tasks. That is why we ask here some questions, and try to formulate some answers.
+Manche Projekte werden geführt, andere nicht. Gibt es einen Anführer, bemerkt man vielleicht, dass es unterschiedliche Führungsstile gibt. Aber das ist noch zu schwach ausgedrückt, bemerkt man doch nicht nur Unterschiede in der Art und Weise, wie Aufgaben ausgeführt werden, sondern auch, dass verschiedene Anführer unterschiedliche Aufgaben übernehmen. Vor diesem Hintergrund werden wir im Folgenden einige Fragen stellen und versuchen, diese zu beantworten.
+
+##Warum wollen Menschen einen Anführer?
 
 
-##Why do people want a leader?
+Ein Projekt unter Führung einer Person durchzuführen hat viele praktische Vorteile.
 
 
-To realize a project with a leader, has of course a lot of practical benefits.
+*Der Anführer kann sicherstellen, dass keine wichtige Aufgabe übersehen wird und dafür Sorge tragen, dass jeder zu jeder Zeit etwas zu tun hat. Er kann gewährleisten, dass die meisten Ressourcen für die Aufgaben aufgewendet werden, die die meiste Zeit beanspruchen. Er kann sicherstellen, dass jeder die Aufgabe bekommt, die seinen Möglichkeiten am besten entspricht. Kurzum, er kann das Projekt koordinieren.*  
+
+*Der Anführer kann für das gesamte Team die Richtung vorgeben, so dass einzelne Teammitglieder sich darüber keine Gedanken zu machen und nicht auf die Teamgenossen achten brauchen, um sicher zu sein, dass sie in dieselbe Richtung gehen.*  
+
+*Der Anführer kann den Dialog zwischen den Teammitgliedern fördern. Er kann sicherstellen, dass sie einander zuhören, wenn sie das sonst nicht so leicht täten.*  
+
+*Im Allgemeinen kann sich der Anführer um alle Aufgaben kümmern, die mit dem Management einhergehen bzw. sicherstellen, dass sich um sie gekümmert wird: Planung, Verteilung von Verantwortlichkeiten, Kontrollieren und Lösen von Problemen, die Zusammenarbeit der Teammitglieder, ein gute Kontakte zur Umgebung, die Einhaltung von vertraglichen Verpflichtungen etc.*
+
+Es gibt noch einen völlig anderen Aspekt, der die Präferenz für einen Anführer beeinflusst: den psychologischen Aspekt. Wo Menschen stark nach Macht streben, gibt es weitaus weniger 
+Menschen, die gerne viel Verantwortung übernehmen. Das wohlbekannte Milgram-Experiment bot einen überraschenden Beweis dafür: Milgram fiel zu seinem Erstaunen auf, dass fast jeder bereit war, seinen Mitmenschen tödliche Elektroschocks zu verpassen, solange es einen Anführer gab, der ihm versicherte, dass er die Verantwortung dafür übernehmen würde. Dieses Experiment wurde hunderte Male wiederholt, immer mit den gleichen Ergebnissen. Die Studie belegte, dass keineswegs Sadismus seitens der Probanden dahinter steckte, sondern eine Abgabe von Verantwortung. In der Internet-Enzyklopädie Wikipedia lässt sich eine gute Beschreibung des Experiments nachlesen. Untergebene erwarten von ihren Anführern, dass diese sich wie ein beschützender Vater oder eine beschützende Mutter verhalten, und fühlen sich ohne Anführer nicht sicher. Dieses Bedürfnis nach Sicherheit, die von einem starken Anführer ausgeht, wird noch verstärkt durch die Sicherheit, die durch Zugehörigkeit zu einer Gruppe gesucht wird, das Bedürfnis, dazuzugehören. In extremen Fällen kann man beobachten, wie diese psychologischen Tendenzen – z. B. in den USA, wo 9/11 eine entsprechende Angst auslöste – Menschen dazu veranlassen, nach einfachen, vorgefertigten Antworten von ihren Anführer trachten, bereitwillig jegliche Fähigkeit, kritisch zu denken, opfern, nur, um keine Verantwortung tragen zu müssen. Dadurch wird auch akzeptiert, dass Ersatzfeinde angegriffen werden, nur damit man sich weiterhin der Illusion hingeben kann, dass nichts dergleichen je wieder passieren wird – der Illusion, dass die große, starke Vaterfigur einen vor allem Übel der Welt beschützen wird.
+
+Das Bedürfnis nach Schutz ist ein sehr starkes, das in uns allen verwurzelt ist; bei einigen ist es stärker ausgeprägt als bei anderen. Es gibt weitere Instinkte, die in uns wirken, andernfalls gäbe es keine Anführer und niemanden, der es vorzieht, unabhängig oder selbstständig zu arbeiten. 
+
+Mehr dazu später.
+
+Hier machen sich bereits die Vorteile des dominanten oder sogar autoritären Anführer bemerkbar: Neben den praktischen Nutzen von Koordination und Management spendet er denen Sicherheit, die sich danach sehnen – ein Bedürfnis, das seine Ursprünge in der Kindheit hat und bei manchen sehr stark ausgeprägt sein kann. Beängstigende oder unsichere Situationen tragen zum Erfolg des autoritären Anführers bei.
 
 
-*The leader can make sure that no important task will be overlooked, and can take care that everybody at all times has a task. He can make sure that most of the resources are put in for the tasks that need most time. He can make sure that everybody got a task that is most appropriate to his possibilities. In short, he can take care of the coordination.*  
+##Weshalb wehren sich Menschen gegen einen Anführer?
 
-*The leader can make sure that the whole team goes in one direction, so that individual members do not have to worry about a direction, and do not have to keep an eye on the others, to see if they keep more or less to the same direction.*  
-
-*The leader can stimulate the dialogue between the team-members. He can make sure that people listen to each other, even if they wouldn't do that easily otherwise.*  
-
-*In general, the leader can take care of all the tasks that come under management, or make sure that these are taken care of: planning, distribution of responsibilities, controlling and solving problems, making sure that people work together, taking care of a good bond with the environment, making sure that contractual commitments are taken care of, etc.*
-
-There is altogether another aspect that influences the choice to work under leadership: the psychological aspect. Where people love to have a lot of power, there are a lot less people eager to take on a lot of responsibilities. The well-known Milgram experiment proved this in a rather surprising way. Milgram noticed, to his surprise, that almost everybody was willing to administrate deadly electrical shocks to people, when there was a leader saying: go on, I'll take the responsibility! This experiment was repeated hundreds of time, with every time the same results. The research showed as well that it was no sadism on the part of these people, but only the refusal of responsibility. On the internet-encyclopedia Wikipedia one can find a reasonable good description of this experiment. Subordinates expect from their leader hat he acts as a good protecting father or mother, and do not feel safe without a leader. This looking for security from a strong leader is even strengthened by the seeking of security in a group, the wish to be "included". In extreme cases we notice how these psychological tendencies - for instance in the USA where 9/11 created such a fear - make people look for simplistic ready answers from their leaders, sacrifice eagerly all their critical qualities, just to not have to bear responsibility, and make them accept that ersatz enemies are being attacked, just to be able to stay in the illusion that nothing like this will ever happen again. The illusion that big strong daddy will protect them from all evil.  
-
-Looking for protection is one strong tendency we all carry in us, in some people more than in others. There are other powers in us as well, there wouldn't be any leaders otherwise, and no people preferring to work independently or self-employed.  
-
-More about that in a next item.
-
-For the moment we notice here already the benefits of the directive or even authoritarian leader: besides the practical benefits of coordination and management, he is giving security to these looking for a sense of safety, the need thereof springing from childhood and this need can be very strong for some. Frightening or unsure situations will make the success of the directive leaders.
+Es ist ein Ideal, das immer und immer wieder auflebt: das Team, in dem Kreativität, Respekt, Selbstverwirklichung, Freiheit, Verantwortung und Freundschaft Werte sind, die hoch geschätzt werden, und in dem kein Anführer nötig ist. Das Team, das sich selbst organisiert. Das Team, in dem es nur gesunden Wettbewerb gibt und keine Machtkämpfe die Beziehungen im Team zerstören.
 
 
-##Why do people refuse a leader?
+1) Was sind die tatsächlichen Vorteile eines solchen Teams? Es ist paradox, dass viele der wesentlichen Pluspunkte eines Teams ohne Anführer Nebeneffekte seiner Nachteile sind. Im vorangegangenen Kapitel wurden die Vorteile der Arbeit in einem geführten Team aufgezeigt: Koordination, Sicherheit, die Marschrichtung und ein großer Teil der Verantwortung können abgegeben werden. In einem gut geführten Team mit klarer Richtungsbestimmung muss niemand um die Arbeit der anderen Teammitglieder besorgt sein, geschweige denn um die Gefühle eines anderen oder um die Richtigkeit der eigenen Arbeit: Das alles wird vom Management und der Struktur vorgegeben. Man kann vollkommen egoistisch und unverantwortlich handeln, und doch funktioniert das Große Ganze noch. In einer führungslosen Gruppe ist das undenkbar. Andernfalls würde nie etwas abgeschlossen, oder man müsste sich auf jeden verlassen können. Menschliche Beziehungen sind weitaus wichtiger. Gibt es einen Anführer, sind manchmal allein für die Festlegung von Richtlinien Besprechungen notwendig. Manchmal sind auch richtige Beratungsgespräche nötig, da die Realität zeigt, dass sich Menschen aktiver einbringen, wenn sie am Entscheidungsprozess teilhaben. Doch selbst wenn manche Menschen gegen die Entscheidungen sind, können sie zur Teilnahme gezwungen werden. Ohne Anführer braucht es Diskussion, und zwar so lange, bis sich alle dazu bereiterklären mitzumachen. 
 
 
-It is an ideal that rises up again and again: the team wherein creativity, respect, self-realization, freedom, responsibility, friendship, are values that are held high, and where no leader is needed. The team that guides itself. The team wherein only a healthy competition lives and no relation-destroying passion for power.
+Das kann lange dauern, besonders wenn die Gruppe relativ neu ist. Danach stellt sich aber eine Dynamik ein, die einem in geführten Teams kaum begegnet. Während der Arbeit selbst müssen die Partner aufeinander und auf deren Gefühle eingehen. Andernfalls geht ständig alles schief. Der Zusammenhalt im Team wird dadurch sehr verstärkt. Die natürlichen Kräfte der Gruppendynamik, die in einem solchen Team wirksam sind, sorgen dafür, dass jeder stark mit der eigenen Person, mit den eigenen Verantwortlichkeiten konfrontiert wird. Wem das zu viel wird, verlässt entweder das Team, entwickelt sich weiter oder erleidet einen Zusammenbruch. Personen, die nicht auf andere eingehen, werden vom Team stark unter Druck gesetzt, damit sie ihre Einstellung ändern. Personen, die sich nicht um sich selbst kümmern, leiden ebenfalls darunter. In Teams, in denen die Aufgaben unabhängig voneinander erledigt werden können, wo Menschen unabhängig voneinander arbeiten, gibt es keine größeren Probleme. In Teams, in denen viel Absprachen und Anpassungen nötig sind, wird die Aufgabe nicht so leicht fallen. Wenn es funktioniert, stellt es sich für alle als bereichernde Erfahrung heraus, was sich mit einer funktionierenden Paarbeziehung vergleichen lässt. Darüber hinaus motivieren sich die Teammitglieder gegenseitig, so dass jeder mit Begeisterung nur das Beste gibt.
 
-1) What are the factual benefits of a team like that? It is a paradox that many of the fundamental benefits of a team without a leader are by-products of its disadvantages. The preceding chapter showed the advantages of working with a leader: taking care of the coordination, taking care of safety, direction, and taking care of a great deal of the responsibility. In a directive, well-guided team, nobody has to worry too much about the work of another team-member, about the feelings of another, or about the rightness of one's own work: the management and the structure take care of all that. One can be working perfectly egoistical and irresponsible, and still, in the whole, everything works. In a group without a leader this is impossible. Or nothing gets ever done, or one has to count on everybody. Human relationships are far more important. If there is a leader, some meetings are only necessary to show the directives. Sometimes real consultative meetings are needed, since reality proves that people participate more actively when they participate in the decision-making. But even if some people are against the decisions, they can be forced to participate. Without a leader deliberation is needed until everybody agrees to participate.
+2) Bei Teams, deren Mitglieder häufig wechseln und die an einem Großprojekt arbeiten, treten recht häufig sehr komplexe Strukturen auf, die unmöglich von einer Einzelperson hätten 
+eingeführt werden können. Unsere Kultur ist ein solches komplexes Gebilde, das von einer Gruppe ohne Anführer hervorgebracht wird. Unsere Gesetzgebung ist ein weiteres Beispiel. 
+Letzteres ist sogar ein sehr gutes: Alle ethischen Gesetze und Prinzipien, die im Laufe der Geschichte von Philosophen vorgestellt wurden, waren einfach und deckten tagtägliche 
+Szenarien nicht ab. Erst durch das Spiel demokratischer Kräfte bezog die Legislation jeden und alles ein. Dass dieses Gebilde nicht vollständig ist, hat nichts mit fehlender oder 
+schlechter Führung zu tun, sondern damit, dass viele gesellschaftliche Gruppen noch nichts zu sagen haben, dass wir, besonders im internationalen Vergleich, noch keine wahre 
+Demokratie haben.
 
+In der Natur gibt es eine endlose Reihe an Beispielen von Strukturen, die aus vielen verschiedenen Elementen bestehen, die sich selbst organisieren. Einige (wie z. B. Kaufmann, 1995) glauben, dass diese natürliche Fähigkeit zur Selbstorganisation, und nicht das Überleben des Stärkeren, die treibende Kraft der Evolution ist.
 
-This can take a long time, especially when the group is relatively new. But thereafter there exists a dynamic one finds rarely in guided teams. During the work itself, the partners have to consider each other, also each others feelings. Otherwise everything will go constantly wrong. The cohesion of the team is very strongly strengthened. The forces of the group dynamics working in a team like this make sure that everyone is strongly confronted with his own being, his own responsibilities. Whoever cannot take this leaves the team, or evolves, or breaks down. People, who do not consider the others, get a lot of pressure from the team to change that attitude. People, who don't take care of themselves, also suffer. In teams where the tasks can be done independently, where people function independently, there are no significant problems. In teams where a lot of consultation and adjustment is needed, the task is not so simple. When it works, it proves an enriching experience for everybody, to compare with an interesting partner-relationship. And what is more, the members of the team are motivating each other, so that everybody gives the best of himself with pleasure.
+Der Glaube, dass dies auch die besten Arbeitsergebnisse in Gruppen hervorbringt, ist verlockend.
 
+##Wie können die Vorteile einer Zusammenarbeit ohne Führung mithilfe einer bestimmten Art von Führung aufrechterhalten werden?
 
-2) Teams wherein the members change frequently, and stay on building on one whole, are quite often able to realize very complex structures, structures that would have been impossible to be realized by one person. The construction of our culture is such a complex structure, realized by a group without a leader. Our legislation is another example. This last one is a very good example: all the ethical laws and principles that were presented by philosophers in the course of history were simplistic and didn't take in account the day to day realities. Only the democratic power-play made sure that a legislation - although complex - was made wherein as much as possible everybody is included. That this construction is not completed is not due to the lack of leadership, or to bad leadership, but due to the fact that many parties still have no say, that we have no real democracy yet, especially when seen on a world-scale.
+Beide vorangegangene Kapitel haben die Vor- und Nachteile einer Zusammenarbeit ohne Führung aufgezeigt.
 
+Nun mag die Frage aufkommen, inwiefern ein Teamleiter sein Team so führen kann, dass die Vorteile eines Teams ohne Führungskraft beibehalten, vielleicht sogar verstärkt werden können. Die Antwort ist meist ein Team mit einem Leiter, der den Prozess lediglich vorantreibt, ohne die Richtung vorzugeben. Was bedeutet es aber, den Prozess voranzutreiben? Es bedeutet, dass der Gruppenführer vor allem für die Kommunikation in der Gruppe verantwortlich ist, sicherstellt, dass bei allen die Motivation stimmt, die Arbeitsbedingungen optimal sind und die Kontakte zur Außenwelt intakt sind. Seine Hauptaufgabe ist nicht die Problemlösung. Er versucht zu dafür zu sorgen, dass dies das Team selbst tun kann.
 
-In nature there is an endless series of examples of structures, made out of many different elements, which organize themselves. Some (f.i. Kaufmann, 1995) think that this (i.e. the self-organizing quality of nature) is the most important force of evolution, rather than the "survival of the fittest".
+Sehen wir uns die Vor- und Nachteile der zwei vorangegangenen Eigenschaften in einer Gruppe mit einem solchen Gruppenleiter an.
 
+Was die in Kapitel 1 erwähnten praktischen Vorteile betrifft, so treffen diese, mit Ausnahme von Eigenschaft 3 („Der Anführer fördert den Dialog zwischen den Teammitgliedern“) auf den Prozess-Coach weitaus weniger zu. Der Gruppenleiter, der lediglich den Prozess fördert, kann seine Aufmerksamkeit auf die Aufgaben beim Managen richten, aber dies ist nicht seine Priorität. Als Prozess-Coach wird er dafür sorgen, dass diese Aufgaben erledigt werden. Der Vorteil, dass der Gruppenleiter die Aufgaben im Auge behält, wird in jeder Hinsicht bewahrt. Er muss denjenigen im Auge behalten, der für das Management verantwortlich ist, erhält also nicht die ganze Macht; andernfalls gäbe es einen Pseudo-Manager, der sich nur mit der Struktur befassen würde.
 
-It is very tempting to think that this also gives the best results in groups.
+Einerseits erhalten die Teammitglieder so ganz offensichtlich Sicherheit. Sie können stark davon ausgehen, dass der Gruppenleiter sich um sie kümmern wird und sie auf menschlicher Ebene wertschätzt. Andererseits sind Menschen, die keine Verantwortung übernehmen und keine Entscheidungen treffen wollen, oft sehr enttäuscht. Der Prozess-Coach-Gruppenleiter, der nicht selbst die Richtung vorgibt, konfrontiert die Arbeitskollegen sehr stark mit seiner Einstellung. Bei Konflikten zwischen Teammitgliedern wird der Prozess-Coach zudem nicht selbst den Knoten durchschlagen, sondern einen Dialog zwischen den Kollegen fordern, so dass diese selbst lernen, miteinander klarzukommen.Wir bemerken hier einige der Phänomene, die auch in Gruppen ohne Führung auftreten. Aber hier kann der Prozess-Coach als Moderator beim Dialog zwischen den verschiedenen Parteien agieren. In beängstigenden Situationen werden sich die Gruppenmitglieder nicht für einen solchen Anführer entscheiden. Sie werden Pseudo-Sicherheit den Vorzug vor realen Angstsituationen geben.
 
+Der Aufbau komplexer, kreativer Strukturen, wie sie in Gruppen ohne Führung entstehen, ist auch in Teams mit einer prozessstimulierenden Struktur möglich. Schließlich gibt der Leiter weder die Richtung noch die Lösung vor. Diese werden durch Absprachen der Gruppenmitglieder untereinander kreiert, wie in einer Gruppe ohne Führung. Doch da nun ein Leiter präsent ist, kann der die Teammitglieder auch darauf hinweisen, dass sie zu sehr voneinander abweichen. So wird weniger Zeit mit nutzloser Arbeit verschwendet. Es ist ebenfalls weniger wahrscheinlich, das das Ziel übersehen wird, wie es in Gruppen ohne Führung er Fall ist.
 
+Prozessstimulierende Führung ist Coaching sehr ähnlich. Das Trainieren eines Sportteams ist ein schönes Beispiel für den Stellenwert der Prozessstimulierung. Ein Fußballteam aus Griechenland wird dann der olympische Sieger, was gewiss weniger dem Talent Einzelner als der Zusammengehörigkeit der Gruppe zu verdanken ist. Und die wiederum ist eine Errungenschaft des Trainers. Auch ein Trainer kann sehr genaue Vorgaben machen und das Spiel bis ins letzte Detail durchplanen. Doch dann beraubt er das Team jeglicher Kreativität, und es spielt eher defensiv und stereotypisch. Um ein Team wie das brasilianische zu coachen, das aus vielen Ballkünstlern besteht, braucht es eine guten Prozesscoach. Siehe z. B. P. Winsemius (2005) über den berühmten Fußballspieler und Coach Johann Cruyff und sein Leadership.
 
-##How can the benefits of working without a leader be kept by a certain way of leadership?
+##Abschließende Bemerkungen und weitere Themen mit Leadership-Bezug
 
+All das zeigt eine Menge Möglichkeiten, mit den Gegebenheiten von Leadership umzugehen.
 
-Both preceding chapters showed the advantages and disadvantages of working with or without a leader.
+Die persönliche Vorgeschichte jedes Individuums bestimmt in gewisser Art und Weise die persönliche Leadership-Präferenz. Bedauerlicherweise ist es so, dass Menschen, die sich schwer führen lassen, auch diejenigen sind, die Verantwortung (auch für die eigene Person) scheuen und Probleme damit haben, selbstständig zu arbeiten oder selbst eine Führungsposition zu übernehmen. Diese Menschen sind am besten in einer Umgebung aufgehoben, gegen die sie nur schwer protestieren können – unter einem autoritären Anführer. Dann regen sie sich zwar über den Anführer auf, sind aber weniger verantwortungsscheu.
 
+Diese letzte Überlegung beweist etwas über die Komplexität des Leadership-Problems. Trotz seiner Komplexität ist es aber möglich, daraus einige allgemeine Regeln abzuleiten, wie auf den vorherigen Seiten gezeigt wurde:
 
-The question can arise in how far a team-leader can guide his team in such a way that the benefits of a team without a leader can be kept. Or maybe even strengthened? A team with a leader who works only to further the process (and is not directive) answers this for the greatest part. What does it mean, stimulating the process? It means that the leader especially takes care of the communication in the group, makes sure that everyone is motivated, that the conditions for working are optimal, and that the contacts with the outside world are going smoothly. Solving problems is not his main task, he tries to make sure that this is done by the team.
+1. Unterschiedliche Situationen verlangen unterschiedliche Führungsstile. Man spricht daher auch oft von situationsbedingten Führung (Situational Leadership, s. z. B. Hersey (2001)).
+2. Auch wenn das viele nicht wissen: Management ist nicht dasselbe wie Leadership, und Management allein reicht nicht aus. Management zielt primär auf die Planung, die Herstellung von Stabilität und Routine, Zuordnung von Verantwortlichkeiten, die Kontrolle und Lösung von Problemen, Einhaltung der Regeln, den Verweis auf die vertraglichen Verpflichtungen ab; dabei werden die Macht, Distanz und Rationalität des Managers eingehalten und die Umgebung wird auf kreative Art und Weise einbezogen. Leadership zielt mehr auf Vision und Mission ab. Es bringt Veränderung und Verbesserung, Motivation und Inspiration mit sich, bezieht ein, fördert eine verstärkte Beteiligung, Interesse an anderen und seitens des Anführers ein Gespür dafür, die Befähigung anderer, eine proaktive Haltung und die Schaffung von Möglichkeiten und Bedingungen. Muijen (2003) schreibt z. B. sehr ausführlich über diese Unterschiede. Das Merkwürdige ist, dass niemand auf die Idee käme, eine Fußballteam rein zu managen oder ohne einen Trainer zu spielen; gleichzeitig geben sich große Firmen der Illusion hin, dass sie ausschließlich Manager bräuchten. Elternschaft ist ebenfalls ein wichtiger Fall von Leadership: Wäre es nicht schön, wenn die Eltern einen nur managen würden?
+3. Leadership in den oberen Etagen des Managements ist vollkommen anders als Leadership in den mittleren Positionen. Beides unterscheidet sich wiederum von Projektleitung. Auf allen drei Ebenen wird der angemessenste Führungsstil jeweils ein überwiegend anderer sein.
 
-
-Let us look at how the advantages and disadvantages of the two preceding items are working in a group with such a leader.
-
-
-Concerning the practical benefits cited in chapter 1, these are, with the exception of item 3 ("The leader stimulates the dialogue between the team-members") a lot less present with the process-coach. The leader who just stimulates the process can pay attention to the tasks of management, but it is not his priority. As process-coach he will take care that these tasks are done. The advantage of the leader keeping an eye on these tasks is kept in every way, and he has to keep an eye on the one doing the management, so he doesn't get all the power, otherwise a pseudo-manager would rise up, concerning himself only with the structure.
-
-
-Giving security to people is on the one hand very explicit, the team-members can get a strong feeling that the leader cares about them and sees them and values them as human beings. On the other side, team-members who want to avoid their own responsibilities and rather avoid making choices are quite often heavily disappointed. The process-coaching leader, who does not point at the direction himself, confronts very strongly his co-workers with his attitude. Also, in conflicts between the team-members, the process-coaching leader will nut cut the knot himself, but will demand a dialogue between his co-workers, and demand that they learn to get on with each other by themselves. We notice here some of the same phenomena as seen in a group without a leader. But here the process-coaching leader can act as moderator in the talk between the parties. In frightening situations group members will not choose for such a leader. Actually, they will choose rather for pseudo-safety than for a realistic fear.
-
-
-Realizing very complex, creative structures as made in groups without a leader, is also possible in teams with a process-stimulating structure. After all, the leader provides neither the direction nor the solution. These are provided through consultation by the group members, as in a group without a leader. But since now there is a leader present, he can point out to his team-members when they are working too much in different directions. So less time will be lost in needless work. It is also less likely that the goal will be overlooked as is the case in groups without a leader.
-
-
-Process-stimulating leadership is very much like coaching. The training of a sports-team is a nice example of the importance of stimulating the process. A football-team from Greece becomes then Olympic Champion, without a doubt less due to the present individual talent than to the cohesion of the team. And this again is an achievement of the trainer. A trainer can be very directive as well, and plan the game to the very last detail. But then you get a team from which all creativity is taken, that plays rather defensive and stereotypical. Coaching a team with a lot of ball-conjurers, like Brazil, asks for a very good process-coach. See f.i. P. Winsemius (2005) about the famous football-player (and trainer) Johann Cruyff and leadership.
-
-
-##Concluding considerations and other theme's concerning leadership.
-
-
-All this shows a lot of possibilities to work with the given of leadership.
-
-
-Everybody's own personal history determinates for a part, and in what manner, how they prefer a certain way of leadership. It is a pity that it is also a psychological given that people, who take being led very difficultly, also have problems with taking up responsibilities (even for themselves) and have trouble to work independently or take up leadership themselves. These people function at best in the environment that they protest again the hardest: under an authoritarian leader. Then they are angry with the leader, but less frightened.
-
-
-This last consideration proves something of the complexity of the problem of leadership. Even considering this complexity it is possible to point out some general rules, as was showed in the preceding pages:
-
-
-1. Different situations demand different styles of leadership. Often one speaks about situational leadership. See f.i. P. Hersey (2001)
-2. Even if it is not always known, management is not the same as leadership, and management alone is not enough.  
-Management puts the accent on planning, on creating stability and routine, allocating responsibility, controlling and solving problems, taking care of compliancy, emphasizing the contractual commitments, keeping the power, distance and rationality of the manager, approaching the environment creatively. But leadership emphasize more vision and mission, creating change and renovation, motivation and inspiration, creating involvement, stimulating extra effort, interest in others and intuition thereof of the leader, empowerment of the others, a pro-active attitude and creating possibilities and conditions. See f.i. Muijen (2003) for a rather thorough exposé of these differences.  
-The strange thing is that no-one would consider only managing a football-team, or playing without a trainer, while big companies do live in the illusion that they only need managers. Of course, also parenthood is an important case of leadership: would it feel good if your parents only managed you?
-3. To give leading on a top-scale (general manager f.i.) is totally different than leading on a middle-manager scale, and still different from leading a project. On these three scales the most adequate style of leadership will be mostly different.  
-
-Actually, as yet nothing is said about the most essential question: "What is actually essential to leadership, when is someone adopting the attitude of a leader, and when as a subordinate?" Or more concrete: "How can you notice if someone is acting as a leader?" Related questions are: "Do you need power to act from the position as a leader? What is power actually, and what kinds of power are there?" and: "Does one need something like 'inner strength' to be a leader, and why does one need it?" The text "The rose of Axes, applied to leadership" gives, based on a model, answers to these questions.
-
+Bis jetzt wurde die wesentlichste Frage nicht beantwortet: Was macht den Kern von Leadership aus – wann verhält sich jemand wie ein Leader und wann wie ein Untergebener? Oder konkreter: Wie stellt man fest, ob sich jemand wie ein Leader verhält? Ähnliche Fragen sind: Braucht es Macht, um als Leader auftreten zu können? Was ist überhaupt Macht, und welche Arten gibt es? Und: Braucht es so etwas wie „innere Stärke“, um ein Anführer zu sein, und weshalb braucht man sie? Das Kapitel „Die ‚Rose of Axes‘, angewandt auf Leadership“ beantwortet diese Fragen auf Basis eines Modells.
 
 Ignace Hanoulle & Yves Hanoulle
 
 
 
-References:
+Literatur:
 
 Hanoulle, Ignace (2004) The Rose of Axes applied to leadership course text.  
 Hersey, Paul (2001). Situational leadership. Contact Amsterdam.  
@@ -107,6 +92,3 @@ Kauffman, Stuart (1995). At home in the Universe Oxford University Press.
 Milgram: <http://en.wikipedia.org/wiki/Milgram_experiment>.  
 Muijen, Prof. Jaap J. van (2003). Leidersschapsontwikkeling: het hanteren van paradoxen,uitgegeven door de universiteit Nyenrode: <http://www.nyenrode.nl/download/lectures/jvmuijen.pdf>  
 Winsemius, P. (2004). Je gaat het pas zien als je het doorhebt - over Cruijff en leiderschap.Balans.
-
-
-
