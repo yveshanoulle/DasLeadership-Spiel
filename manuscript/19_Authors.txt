@@ -1,49 +1,44 @@
-# About the authors {#Acknowledgments}
+# Über die Autoren und die deutsche Fassung {#Über die Autoren und die deutsche Fassung}
 
 ![Yves & Ignace](images/YvesIgnace.jpg)
 
 
-**Ignace Hanoulle:** 
+**Ignace Hanoulle:**
 
-started as Civil engineer in IT in 1976. Now working as psychologist with
-strong interest in system thinking. Advanced training in leading groups. 20 year experience
-as counselor of experienced based groups.
-Ignace invented the term PairCoaching.
+Als Bauingenieur startete er 1976 seine IT-Karriere. Mittlerweile arbeitet er als Psychologe mit Fokus auf Systemdenken. Besondere Qualifikationen kann er im Bereich der Gruppenführung vorweisen. Er hat 20 Jahre Erfahrung als Berater im Bereich erfahrungsbasiertes Lernen in Gruppen. Ignace prägte den Begriff Pair Coaching.
 
 
 **Yves Hanoulle:**
 
-I started working in IT in 1994. I worked as software support, developer, team lead, trainer, agile coach. I believe that IT is mainly about working with people. A skill that can never be learned enough. 
+Begann im Jahr 1994, in der IT zu arbeiten. Er war im Software-Support, Entwickler, Teamleiter, Trainer und Agile Coach tätig. Er ist überzeugt, dass die erfolgreiche Zusammenarbeit von Personen das A und O der IT sind – und eine Fähigkeit, die man nicht gründlich genug lernen kann.
 
-Yearly I spend at least 10 % of my revenue on training and books (You can find details and recommendations on my linkedin profile.)
+Yves investiert jährlich mindestens 10% seines Einkommens in Schulungen und Bücher. Mehr Informationen und Empfehlungen diesbezüglich können seinem LinkedIn-Profil entnommen werden.
 
 
-After my father invented the term PairCoaching, I started to use it to  promote pairwork.
-When I don�t work as an agile coach helping companies in EMEA, talking at conferences around the world about agile or the core protcols, I�m using
-agile idea�s to raise my 3 kids. (And I use what I learn from them when I work with teams.)
+Nachdem sein Vater den Begriff Pair Coaching erfand, fing er an, für die Zusammenarbeit von Zweierteams zu werben. Wenn er gerade einmal nicht als Agile Coach Unternehmen im EMEA-Raum hilft oder auf Konferenzen weltweit über Agile oder die Core Protocols spricht, wendet er agile Methoden auf die Erziehung seiner drei Kinder an – und nutzt das, was er dabei lernt, für die Teams, mit denen er arbeitet.
 
-Since December 2012, I work from a [walking desk](http://www.hanoulle.be/2013/02/im-working-from-a-walking-desk/). 
-Check out the link to see how many steps I took since then. 
+Seit Dezember 2012 arbeitet er an einem Laufbahn-Schreibtisch](http://www.hanoulle.be/2013/02/im-working-from-a-walking-desk/).
+Gehen Sie auf den Link, um herauszufinden, wie viele Schritte er seither gegangen ist.
 
-**Collaboration projects**
+**Gemeinsame Projekte:**
 
 * [Agile Conference Calendars](https://bitly.com/AgileConferences)
 * [Agile Terminalogy](http://www.hanoulle.be/2013/04/agile-terminology/)
 * [Agile Thursday Quiz](http://www.hanoulle.be/atq/)
-* [Coach Retreat](http://www.CoachRetreat.org) 
+* [Coach Retreat](http://www.CoachRetreat.org)
 * [Retroflection of the day](http://www.retroflection.org)
 * [ThoughtJockey](http://www.thoughtjockey.org/)
 
-**Books**
+**Bücher**
 
-You can find my books at http://www.hanoulle.be/books
-If you are interested in agile, you might want to [buy the leanpub agile bundle](https://www.leanpub.com/b/agile)
+Wenn Sie sich für Agilität interessieren, können Sie auch das [Agile-Paket bei Leanpub kaufen](https://www.leanpub.com/b/agile).
+
 
 
 You can find me on social media as YvesHanoulle
 
 
-Contact Data Yves:
+Kontaktdaten von Yves Hanoulle::
 
 * [Personal website](http://www.hanoulle.be)
 * [Twitter](http://www.twitter.com/YvesHanoulle)
@@ -62,3 +57,8 @@ Contact Data Yves:
 Objectsoft bvba
 
 Congregatiestraat 16 9031 Drongen
+
+**Über die deutsche Fassung:**
+Im Sommer 2015 wurde das Leadership-Spiel von Mitarbeitern der codecentric AG beim Agilen Stammtisch in Frankfurt/Main durchgeführt. Zu diesem Anlass wurden einige Kapitel ins Deutsche übersetzt. Aufgrund der positiven Resonanz regte Serhiy Yevtushenko, Leiter des Agilen Stammtischs, an, das gesamte Buch ins Deutsche zu übersetzen.
+**Übersetzung:** Diana Kupfer
+**Formatierung/Einrichtung:** Christian Hof
