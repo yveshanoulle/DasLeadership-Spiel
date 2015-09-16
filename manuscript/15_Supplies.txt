@@ -1,97 +1,95 @@
-# Supplies {#Supplies}
+# Materialien {#Materialien}
 
-* Per 20 people:
-  * hourglass of 3 minutes,
-  * hourglass of 5 minutes,
-  * hourglass of 10 minutes,
-  * hourglass of 15 minutes,
-  * one large table,
-  * flip-over (needed for organization) or a magic whiteboard
-* Camera for photos
-* Books on leadership
-* 3 index cards: one red, one green, one yellow
-* 20 ballpens.
-* clock or timer device
-* (sticker) name badges for everyone
-* 2 black hat's for the leaders
-* white hat's for the observers.
-* (optional) gong
+* Für 20 Personen:
+  * 3-Minuten-Sanduhr
+  * 5-Minuten-Sanduhr
+  * 10-Minuten-Sanduhr
+  * 15-Minuten-Sanduhr
+  * ein großer Tisch
+  * Flipchart (für organisatorische Zwecke) oder Whiteboard
+* Kamera
+* Bücher über Leadership
+* 3 Karteikarten: rot, grün, gelb
+* 20 Kugelschreiber
+* Stoppuhr
+* aufklebbare Namensschilder für alle
+* 2 schwarze Kappen für die Leader
+* weiße Kappen für die Beobachter
+* ein Gong (optional)
 
 ![](images/suppliers.png)
 
-**Papers:**
+**Buchkapitel:**
 
-Per person:
+Für jede Person:
 
-* Observation and feedback
-* List of questions for feedback
-* Contemplation on leadership
+* Beobachtung und Feedback
+* Liste mit Feedback-Fragen
+* Überlegungen zum Thema Leadership
 * Rose of axes
-* Literature list
+* Literaturliste
 
-We distribute the whole set of papers at conferences.
+Wir verteilen das gesamte Buch auf Konferenzen.
 
-**Bricks:**
+**Lego-Bausteine:**
 
 Quattro:
 
-* Orange: 100 X Blocks of 2 on 1
-* Purple: 50 X Blocks of 2 on 1
-* Red: 50 X Blocks of 2 on 2
-* Red: 20 X Blocks of 4 on 2
-* Blue: 50 X Blocks of 4 on 1
-* Blue: 40 X Blocks of 2 on 1 on top and 2 on 2 bottom (rounded)
-* Blue: 100 X Blocks of 2 on 1
-* Green: 50 X Blocks of 4 on 1
-* Green: 40 X Blocks of 2 on 1 on top and 2 on 2 bottom (rounded)
-* Green: 100 X Blocks of 2 on 1
-* Yellow : 20 X Blocks of 4 on 2
-* Yellow : 50 X Blocks of 2 on 2
+* Orange: 100 2x1-Bausteine
+* Violett: 50 2x1-Bausteine
+* Rot: 50 2x2-Bausteine
+* Rot: 20 4x2-Bausteine
+* Blau: 50 4x1-Bausteine
+* Blau: 40 Bausteine mit 2x1 oben und 2x2 unten (rund)
+* Blau: 100 2x1-Bausteine
+* Grün: 50 4x1-Bausteine
+* Grün: 40 Blocks mit 2x1 oben und 2x2 unten (rund)
+* Grün: 100 2x1-Bausteine
+* Gelb: 20 4x2-Bausteine
+* Gelb: 50 2x2-Bausteine
 
 **Duplo:**
 
-(These blocks fit on the Quattro's.)
+(Passen auf die Quatro-Bausteine)
 
-* Red 50 X Blocks of 4 on 2
-* Red 50 X Blocks of 2 on 2
-* Red 10 X Blocks of 8 on 2
-* Red 5 X Blocks of 6 on 2
-* Red 5 X Blocks of 4 on 2 on 1/2 size
-* Blue 50 X Blocks of 4 on 2
-* Blue 50 X Blocks of 2 on 2
-* Blue 10 X Blocks of 8 on 2
-* Blue 5 X Blocks of 10 on 2
-* Blue 5 X Blocks of 6 on 2
-* Light green 50 X Blocks of 4 on 2
-* Light green 50 X Blocks of 2 on 2
-* Light green 5 X Blocks of 4 on 2 on 1/2 size
-* Dark green 50 X Blocks of 4 on 2
-* Dark green 50 X Blocks of 2 on 2
-* Dark green 5 X Blocks of 4 on 2 on 1/2 size
-* Orange 50 X Blocks of 4 on 2
-* Orange 50 X Blocks of 2 on 2
-* Orange 5 X Blocks of 4 on 2 on 1/2 size
-* Light blue 50 X Blocks of 4 on 2
-* Light blue 50 X Blocks of 2 on 2
-* Light blue 5 X Blocks of 4 on 2 on 1/2 size
-* Bordeaux 50 X Blocks of 4 on 2
-* Bordeaux 50 X Blocks of 2 on 2
-* Bordeaux 5 X Blocks of 4 on 2 on 1/2 size
-* white 50 X Blocks of 4 on 2
-* white 50 X Blocks of 2 on 2
-* white 5 X Blocks of 4 on 2 on 1/2 size
-* gray 50 X Blocks of 2 on 2
+* Rot: 50 4x2-Bausteine
+* Rot: 50 2x2-Bausteine
+* Rot: 10 8x2-Bausteine
+* Rot: 5 6x2-Bausteine
+* Rot: 5 4x2-Bausteine von halber Größe
+* Blau: 50 2x2-Bausteine
+* Blau: 50 2x2-Bausteine
+* Blau: 10 8x2-Bausteine
+* Blau: 5 10x2-Bausteine
+* Blau: 5 6x2-Bausteine
+* Hellgrün: 50 4x2-Bausteine
+* Hellgrün: 50 2x2-Bausteine
+* Hellgrün: 5 4x2-Bausteine von halber Größe
+* Dunkelgrün: 50 2x2-Bausteine
+* Dunkelgrün: 50 2x2-Bausteine
+* Dunkelgrün: 5 4x2-Bausteine von halber Größe
+* Orange: 50 4x2-Bausteine
+* Orange: 50 2x2-Bausteine
+* Orange: 5 4x2-Bausteine von halber Größe
+* Hellblau: 50 4x2-Bausteine
+* Hellblau: 5 2x2-Bausteine
+* Hellblau: 5 4x2-Bausteine von halber Größe
+* Bordeaux: 50 4x2-Bausteine
+* Bordeaux: 50 2x2-Bausteine
+* Bordeaux: 5 4x2-Bausteine von halber Größe
+* Weiß: 50 4x2-Bausteine
+* Weiß: 50 2x2-Bausteine
+* Weiß: 5 4x2-Bausteine von halber Größe
+* Grau: 50 2x2-Bausteine
 
-**Lego:**
+**Lego-Kästen:**
 
-* 2 X box 4497
-* 2 X box 4104
-* 2 X box 6119
-* 1 X box 6117
+* 2x Kasten 4497
+* 2x Kasten 4104
+* 2x Kasten 6119
+* 1x Kasten 6117
 
 ![](images/suppliers2.png)
 
-The list is the lego we use in Europe.  
-When we take a plane, we use a subset of this lego. The subsets fit's in a suitcase and is
-about 20 kilo's of lego.  
-Pictures of the games can be found on Flickr <http://www.flickr.com/photos/yveshanoulle/collections/72157624018079831/>
+Dies sind die Materialien, die wir in Europa verwenden. Wenn wir mit dem Flugzeug fliegen, nutzen wir eine kleinere Menge an Bausteinen, die in einen Koffer passen und etwa 20 Kilo wiegen.
+Bilder von dem Spiel sind auf Flickr zu finden: <https://www.flickr.com/photos/yveshanoulle/collections/72157624018079831/>
