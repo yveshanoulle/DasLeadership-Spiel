@@ -1,20 +1,21 @@
-# Game Feedback {#GameFeedback}
+# Feedback zum Spiel {#Feedback zum Spiel}
 
-Will you send us your feedback to <games@paircoaching.net>?  
-Please use the perfection game format for sending us feedback. (The perfection Game is part of [the Core protocols](http://liveingreatness.com/files/core-protocols-3.03.html), a set of communication patterns created by [Jim & Michele McCarthy](http://www.mccarthyshow.com/online/))
+Senden Sie uns Ihr Feedback zum Spiel an <games@paircoaching.net>.
+Verwenden Sie bitte das Perfection-Game-Format, um uns Feedback zu senden. Das Perfection Game ist Teil der (http://liveingreatness.com/files/core-protocols-3.03.html), einer Sammlung von Kommunikationsmustern, die von [Jim & Michele McCarthy](http://www.mccarthyshow.com/online/) zusammengetragen wurden.
 
-The Perfection Game protocol will support you in your desire to aggregate the best ideas. Use it whenever you desire to improve something you've created.
+Das Perfection-Game-Protokoll wird Sie beim Sammeln der besten Ideen unterstützen.
+Verwenden Sie es immer, wenn Sie etwas, was Sie selbst geschaffen haben, verbessern möchten.
 
-##Steps
+##Die Schritte
 
-1. Perfectee performs an act or presents an object for perfection, optionally saying "Begin" and "End" to notify the Perfector of the start and end of the performance.
-2. Perfector rates the value of the performance or object on a scale of 1 to 10 based on how much value the Perfector believes he or she can add.
-3. Perfector says "What I liked about the performance or object was X," and proceeds to list the qualities of the object the Perfector thought were of high quality or should be amplified.
-4. Perfector offers the improvements to the performance or object required for it to be rated a 10 by saying "To make it a ten, you would have to do X." 
+1. Der „Perfectee“, also der, der etwas verbessern lassen möchte, präsentiert den Sachverhalt, der perfektioniert werden soll, optional mit Beginn und Ende. So signalisiert er  dem„Perfector“, dem Verbesserer, wo der Akt, der verbessert werden soll, beginnt und endet.
+2. Der Perfector bewertet den Akt oder Sachverhalt auf einer Scala von 1 bis 10, basierend auf dem Wert, dem der Perfector ihm hinzufügen kann.
+3. Der Perfector sagt: „Was mir an dem Akt/Sachverhalt gefiel, war X“ und listet die Eigenschaften auf, die seiner Ansicht nach von hoher Qualität waren oder verbessert werden müssen.
+4. Der Perfector macht Verbesserungsvorschläge zum Akt oder Sachverhalt, damit dieser die Bewertung „10“ verdient: „Damit es eine 10 wird, müsste man X verbessern.“
 
-##Commitments
+##Vereinbarungen
 
-* Accept perfecting without argument.
+* Verbessern Sie etwas ohne Gegenargumentation.
 * Give only positive comments: what you like and what it would take to "give it a 10."
 * Abstain from mentioning what you don't like or being negative in other ways.
 * Withhold points only if you can think of improvements.
