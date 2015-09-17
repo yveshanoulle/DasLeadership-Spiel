@@ -16,14 +16,14 @@ Verwenden Sie es immer, wenn Sie etwas, was Sie selbst geschaffen haben, verbess
 ##Vereinbarungen
 
 * Verbessern Sie etwas ohne Gegenargumentation.
-* Give only positive comments: what you like and what it would take to "give it a 10."
-* Abstain from mentioning what you don't like or being negative in other ways.
-* Withhold points only if you can think of improvements.
-* Use ratings that reflect a scale of improvement rather than a scale of how much you liked the object.
-* If you cannot say something you liked about the object or specifically say how to make the object better, you must give it a 10.
+* Machen Sie nur positive Bemerkungen, d. h. sagen Sie, was Ihnen gefällt und was erforderlich ist, um eine 10 zu erhalten.
+* Sagen Sie nicht, was Ihnen nicht gefällt und vermeiden Sie auch andere negative Äußerungen.
+* Enthalten Sie nur Aspekte vor, für die Sie sich keine Optimierungen vorstellen können.
+* Nutzen Sie für die Bewertung eine Skala, die das Verbesserungspotential widerspiegelt, keine, die Ihr persönlichen Vorlieben anzeigt.
+* Wenn Sie nichts aufzählen können, was Ihnen an dem Sachverhalt gefällt oder nicht genau sagen können, wie man ihn besser machen kann, bewerten Sie ihn mit 10.
 
-##Notes
+##Anmerkungen
 
-* A rating of 10 means you are unable to add value, and a rating of 5 means you will specifically describe how to make the object at least twice as good.
-* The important information to transmit in the Perfection Game protocol improves the performance or object. For example, "The ideal sound of a finger snap for me is one that is crisp, has sufficient volume, and startles me somewhat. To get a 10, you would have to increase your crispness."
-* As a perfectee, you may only ask questions to clarify or gather more information for improvement. If you disagree with the ideas given to you, simply don't include them.
+* Eine Bewertung von 10 bedeutet, dass Sie nicht in der Lage sind, es aufzuwerten, eine Bewertung von 5 heißt, dass Sie genau beschreiben können, wie man den Sachverhalt doppelt so gut macht.
+* Die wichtigen Informationen, die im Perfection Game Protocol übermittelt werden, verbessern den Akt oder Sachverhalt, z. B.: „Der ideale Klang beim Fingerschnipsen entsteht durch Klarheit, eine bestimmte Lautstärke und dadurch, dass er mich leicht erschreckt. Um eine 10 zu erhalten, müsste der Klang noch klarer sein.“
+* Als Perfectee können Sie nur Verständnisfragen stellen oder um Informationen bitten, die für eine Verbesserung nötig sind. Wenn Sie nicht mit den Ideen einverstanden sind, die Ihnen an die Hand gegeben werden, greifen Sie sie einfach nicht auf.
