@@ -1,12 +1,13 @@
-# Countries {#Countries}
+# Verbreitung des Spiels {#Verbreitung des Spiels}
 
-This is a list of the countries we know the game was played.
+Unseres Wissens wurde das Spiel bereits in den folgenden Ländern gespielt:
 
-+ Belgium
-+ Canada
-+ Denmark 
-+ France
-+ Italy 
-+ Netherlands 
-+ Switzerland 
-+ US
++ Belgien
++ Kanada
++ Dänemark
++ Frankreich
++ Italien
++ Niederlande
++ Schweiz
++ USA
++ Deutschland

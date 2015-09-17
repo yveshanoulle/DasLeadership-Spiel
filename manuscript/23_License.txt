@@ -1,21 +1,22 @@
-# License {#License}
+# Lizenz {#Lizenz}
 
-+ **Attribution:**  
-You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
-+ **Share Alike:**  
-If you alter, transform, or build upon this work, you may distribute the resulting work only under the same, similar or a compatible license.
-+ **Waiver:**   
-Any of the above conditions can be _waived_ if you get permission from the copyright holder.
-+ **Public Domain:**   
-Where the work or any of its elements is in the _public domain_ under applicable law, that status is in no way affected by the license.
-+ **Other Rights:**   
-In no way are any of the following rights affected by the license:
-  + Your fair dealing or _fair use_ rights, or other applicable copyright exceptions and limitations;
-  + The author's _moral_ rights;
-  + Rights other persons may have either in the work itself or in how the work is used, such as _publicity_ or privacy rights.
++ **Namensnennung:**
+Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
++ **Weitergabe unter gleichen Bedingungen:**
+Wenn Sie das Material remixen, verändern oder anderweitig direkt darauf aufbauen, dürfen Sie Ihre Beiträge nur unter derselben Lizenz wie das Original verbreiten.
++ **Verzicht:**
+Auf jede der genannten Konditionen kann verzichtet werden, wenn eine entsprechende Einwilligung des Urhebers vorliegt.
++ **Allgemeine Zugänglichkeit:**
+Ist das Werk oder sind Teile daraus öffentlich zugänglich und unterstehen damit allgemeinem Recht, hat die Lizenz keinerlei Auswirkungen auf diesen Status.
++ **Weitere Rechte:**
+Die Lizenz hat keinerlei Auswirkungen auf die folgenden Rechte:
+ + die angemessene Verwertung sowie weitere Urheberrechtsausnahmen und -beschränkungen
+ + die Persönlichkeitsrechte der Autoren
+ + die Rechte weiterer Personen, sowohl in Bezug auf das Buch selbst als auch hinsichtlich dessen Verwendung, z. B. Veröffentlichungs- und Persönlichkeitsrechte
 
-**Notice** 
 
-For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to the books webpage <http://www.leanpub.com/theLeadershipGame>
+**Anmerkung**
 
-See <http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US>
+ei einer vorgesehenen Weiterverbreitung des Werks müssen Sie andere über die Lizenzbestimmungen aufklären. Am besten tun Sie dies, indem Sie den Link zur Website des Buchs weitergeben: <http://www.leanpub.com/theLeadershipGame>
+
+Lizenz unter <http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US>
