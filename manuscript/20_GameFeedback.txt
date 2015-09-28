@@ -1,4 +1,4 @@
-# Feedback zum Spiel {#Feedback zum Spiel}
+# Feedback zum Spiel {#GameFeedback}
 
 Senden Sie uns Ihr Feedback zum Spiel an <games@paircoaching.net>.
 Verwenden Sie bitte das Perfection-Game-Format, um uns Feedback zu senden. Das Perfection Game ist Teil der (http://liveingreatness.com/files/core-protocols-3.03.html), einer Sammlung von Kommunikationsmustern, die von [Jim & Michele McCarthy](http://www.mccarthyshow.com/online/) zusammengetragen wurden.
