@@ -30,7 +30,7 @@ Jan gibt ihm Feedback:
 
 **Feedback-Regeln:**
 
-+ Ich sehen, höre ... (Fakten)
++ Ich sehe, höre ... (Fakten)
 + Ich interpretiere, denke, fühle ... (Interpretation)
 + Ich fühle mich ..., ich erfahre es als ...
 + Ich wünsche, hoffe, will
@@ -39,5 +39,5 @@ Jan gibt ihm Feedback:
 
 "Du hast gesagt, die Datei sei in Ordnung, aber sie ist es nicht, weil…."
 
-Anmerkung: Würde man sagen "Du bist ein Lügner", ist das kein Feedback, sondern eine Anschuldigung. Eine Anschuldigung ist teils Feedback (du hast dies und jenes getan), teils ein Vorwurf, dass die Person es anders hätte machen sollen (eine negative Wertung). Wenn man sagt "Du hast gelogen", ist das sogar mehr: eine Beleidigung, eine Missbilligung der gesamten Person.
+Anmerkung: Würde man sagen "Du bist ein Lügner", wäre das kein Feedback, sondern eine Anschuldigung. Eine Anschuldigung ist teils Feedback (du hast dies und jenes getan), teils ein Vorwurf, dass die Person es anders hätte machen sollen (eine negative Wertung). Wenn man sagt "Du hast gelogen", ist das sogar mehr: eine Beleidigung, eine Missbilligung der gesamten Person.
 
