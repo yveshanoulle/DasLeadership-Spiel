@@ -10,20 +10,20 @@ Als Bauingenieur startete er 1976 seine IT-Karriere. Mittlerweile arbeitet er al
 
 **Yves Hanoulle:**
 
-Begann im Jahr 1994, in der IT zu arbeiten. Er war im Software-Support, Entwickler, Teamleiter, Trainer und Agile Coach tätig. Er ist überzeugt, dass die erfolgreiche Zusammenarbeit von Personen das A und O der IT sind – und eine Fähigkeit, die man nicht gründlich genug lernen kann.
+Begann im Jahr 1994, in der IT zu arbeiten. Er war im Software-Support und auch als Entwickler, Teamleiter, Trainer und Agile Coach tätig. Er ist überzeugt, dass die erfolgreiche Zusammenarbeit von Personen das A und O der IT ist – und eine Fähigkeit, die man nicht gründlich genug lernen kann.
 
 Yves investiert jährlich mindestens 10% seines Einkommens in Schulungen und Bücher. Mehr Informationen und Empfehlungen diesbezüglich können seinem LinkedIn-Profil entnommen werden.
 
 
 Nachdem sein Vater den Begriff Pair Coaching erfand, fing er an, für die Zusammenarbeit von Zweierteams zu werben. Wenn er gerade einmal nicht als Agile Coach Unternehmen im EMEA-Raum hilft oder auf Konferenzen weltweit über Agile oder die Core Protocols spricht, wendet er agile Methoden auf die Erziehung seiner drei Kinder an – und nutzt das, was er dabei lernt, für die Teams, mit denen er arbeitet.
 
-Seit Dezember 2012 arbeitet er an einem Laufbahn-Schreibtisch](http://www.hanoulle.be/2013/02/im-working-from-a-walking-desk/).
+Seit Dezember 2012 arbeitet er an einem [Laufbahn-Schreibtisch](http://www.hanoulle.be/2013/02/im-working-from-a-walking-desk/).
 Gehen Sie auf den Link, um herauszufinden, wie viele Schritte er seither gegangen ist.
 
 **Gemeinsame Projekte:**
 
 * [Agile Conference Calendars](https://bitly.com/AgileConferences)
-* [Agile Terminalogy](http://www.hanoulle.be/2013/04/agile-terminology/)
+* [Agile Terminology](http://www.hanoulle.be/2013/04/agile-terminology/)
 * [Agile Thursday Quiz](http://www.hanoulle.be/atq/)
 * [Coach Retreat](http://www.CoachRetreat.org)
 * [Retroflection of the day](http://www.retroflection.org)
@@ -35,8 +35,7 @@ Wenn Sie sich für Agilität interessieren, können Sie auch das [Agile-Paket be
 
 
 
-You can find me on social media as YvesHanoulle
-
+In den sozialen Netzwerken finden Sie mich als YvesHanoulle.
 
 Kontaktdaten von Yves Hanoulle::
 
