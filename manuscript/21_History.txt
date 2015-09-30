@@ -1,6 +1,6 @@
 # Versionen {#Versionen}
 
-Dieses Spiel wurde 2004 erfunden. Nach einem ersten Versuch wurde es auf einem Event der XP-Community in den Niederlanden gespielt. Das Spiel wurde dort gut aufgenommen und dann auf Agile-Konferenzen auf der ganzen Welt wiederholt. Yves & Ignace wurden vier Jahre in Folge eingeladen, das Spiel auf dem XP Day Frankreich zu spielen. Jedes Mal wollten mehr Leute mitspielen, als mitmachen konnten.
+Dieses Spiel wurde 2004 erfunden. Nach einem ersten Versuch wurde es auf einem Event der XP-Community in den Niederlanden gespielt. Das Spiel wurde dort gut aufgenommen und dann auf Agile-Konferenzen auf der ganzen Welt wiederholt. Yves und Ignace wurden vier Jahre in Folge eingeladen, das Spiel auf dem XP Day Frankreich zu spielen. Jedes Mal wollten mehr Leute mitspielen, als mitmachen konnten.
 
 **Versionen**
 
