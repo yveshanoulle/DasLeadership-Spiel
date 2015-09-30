@@ -1,7 +1,7 @@
 # Feedback zum Spiel {#GameFeedback}
 
 Senden Sie uns Ihr Feedback zum Spiel an <games@paircoaching.net>.
-Verwenden Sie bitte das Perfection-Game-Format, um uns Feedback zu senden. Das Perfection Game ist Teil der (http://liveingreatness.com/files/core-protocols-3.03.html), einer Sammlung von Kommunikationsmustern, die von [Jim & Michele McCarthy](http://www.mccarthyshow.com/online/) zusammengetragen wurden.
+Verwenden Sie bitte das Perfection-Game-Format, um uns Feedback zu senden. Das Perfection Game ist Teil der [Core Protokolle](http://www.mccarthyshow.com/wp-content/uploads/2011/02/DieCoreProtokolleV3.pdf), einer Sammlung von Kommunikationsmustern, die von [Jim & Michele McCarthy](http://www.mccarthyshow.com/online/) zusammengetragen wurden.
 
 Das Perfection-Game-Protokoll wird Sie beim Sammeln der besten Ideen unterstützen.
 Verwenden Sie es immer, wenn Sie etwas, was Sie selbst geschaffen haben, verbessern möchten.
@@ -19,7 +19,7 @@ Verwenden Sie es immer, wenn Sie etwas, was Sie selbst geschaffen haben, verbess
 * Machen Sie nur positive Bemerkungen, d. h. sagen Sie, was Ihnen gefällt und was erforderlich ist, um eine 10 zu erhalten.
 * Sagen Sie nicht, was Ihnen nicht gefällt und vermeiden Sie auch andere negative Äußerungen.
 * Enthalten Sie nur Aspekte vor, für die Sie sich keine Optimierungen vorstellen können.
-* Nutzen Sie für die Bewertung eine Skala, die das Verbesserungspotential widerspiegelt, keine, die Ihr persönlichen Vorlieben anzeigt.
+* Nutzen Sie für die Bewertung eine Skala, die das Verbesserungspotential widerspiegelt, keine, die Ihre persönlichen Vorlieben anzeigt.
 * Wenn Sie nichts aufzählen können, was Ihnen an dem Sachverhalt gefällt oder nicht genau sagen können, wie man ihn besser machen kann, bewerten Sie ihn mit 10.
 
 ##Anmerkungen
