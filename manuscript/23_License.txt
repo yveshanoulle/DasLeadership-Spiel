@@ -17,6 +17,6 @@ Die Lizenz hat keinerlei Auswirkungen auf die folgenden Rechte:
 
 **Anmerkung**
 
-ei einer vorgesehenen Weiterverbreitung des Werks müssen Sie andere über die Lizenzbestimmungen aufklären. Am besten tun Sie dies, indem Sie den Link zur Website des Buchs weitergeben: <http://www.leanpub.com/theLeadershipGame>
+Bei einer vorgesehenen Weiterverbreitung des Werks müssen Sie andere über die Lizenzbestimmungen aufklären. Am besten tun Sie dies, indem Sie den Link zur Website des Buchs weitergeben: <https://leanpub.com/dasLeadershipSpiel>
 
 Lizenz unter <http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US>
