@@ -8,7 +8,7 @@ Verwenden Sie es immer, wenn Sie etwas, was Sie selbst geschaffen haben, verbess
 
 ##Die Schritte
 
-1. Der „Perfectee“, also der, der etwas verbessern lassen möchte, präsentiert den Sachverhalt, der perfektioniert werden soll, optional mit Beginn und Ende. So signalisiert er  dem„Perfector“, dem Verbesserer, wo der Akt, der verbessert werden soll, beginnt und endet.
+1. Der „Perfectee“, also der, der etwas verbessern lassen möchte, präsentiert den Sachverhalt, der perfektioniert werden soll, optional mit Beginn und Ende. So signalisiert er dem „Perfector“, dem Verbesserer, wo der Akt, der verbessert werden soll, beginnt und endet.
 2. Der Perfector bewertet den Akt oder Sachverhalt auf einer Scala von 1 bis 10, basierend auf dem Wert, dem der Perfector ihm hinzufügen kann.
 3. Der Perfector sagt: „Was mir an dem Akt/Sachverhalt gefiel, war X“ und listet die Eigenschaften auf, die seiner Ansicht nach von hoher Qualität waren oder verbessert werden müssen.
 4. Der Perfector macht Verbesserungsvorschläge zum Akt oder Sachverhalt, damit dieser die Bewertung „10“ verdient: „Damit es eine 10 wird, müsste man X verbessern.“
