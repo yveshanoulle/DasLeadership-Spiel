@@ -4,7 +4,7 @@
 03_TrainerInstructions.txt
 04_HowToRunTheGame.txt
 05_SchedulePlayers.txt
-
+05_05_Timetable.txt
 06_Observation.txt
 07_Feedback.txt
 08_QuestionsGame1.txt
