@@ -10,12 +10,12 @@
 |3.  |Introduction of the game                                | 5           |0:15    |Select leader and observers         |
 |----|--------------------------------------------------------|-------------|--------|------------------------------------|
 |4.  |__1st Session - Strong Directive Leadership__           |             |        |                                    | 
-|4.1 | Briefing of the leader                                 | 5           |        |Leader decides on a concept         | 
+|4.1 | Briefing of the leader                                 | 5-10        |        |Leader decides on a concept         | 
 |4.2 | Leaders meeting with the team                          | 10          |        |                                    | 
 |4.3 | Construction                                           | 15          |0:50    |                                    |  
 |----|--------------------------------------------------------|-------------|--------|------------------------------------|
 |5.  |__Feedback__                                            |             |        |Feedback questions 1                |          
-|5.1 | Write personal feedback                                | 3           |        |                                    |                 
+|5.1 | Personal reflections                                   | 3           |        |                                    |                 
 |5.2 | Discuss feedback in groups                             | 7           |1:00    |Form groups 2 players + 1 observer  |                     
 |----|--------------------------------------------------------|-------------|--------|------------------------------------|
 |6.  |__2nd Session - Without a Leader__                      |             |        |Change observers                    |
@@ -25,7 +25,7 @@
 |7.  |Break                                                   | 15          |1:40    |Brief leaders for session 3         |             
 |----|--------------------------------------------------------|-------------|--------|------------------------------------|
 |8.  |__Feedback - 2nd session__                              |             |        |Feedback questions 2                | 
-|8.1 | Write own feedback                                     | 3           |        |                                    | 
+|8.1 | Personal reflections                                   | 3           |        |                                    | 
 |8.2 | Discuss feedback in groups                             | 7           |1:50    |                                    |     
 |----|--------------------------------------------------------|-------------|--------|------------------------------------|
 |9.  |Break                                                   | 15          |2:05    |                                    |         
@@ -35,10 +35,10 @@
 |10.2| Construction                                           | 15          |2:30    |                                    |             
 |----|--------------------------------------------------------|-------------|--------|------------------------------------|
 |11. | __General Feedback__                                   |             |        |Feedback questions 3                |             
-|11.1| Write personal  feedback                               | 3           |        |                                    |             
-|11.2| Take pictures of building, break them apart            |             |        |                                    |             
+|11.1| Personal reflections                                   | 3           |        |                                    |             
+|11.2| Take pictures of buildings, break them apart           |             |        |                                    |             
 |11.3| Feedback of the leaders                                |             |        |                                    |             
-|11.4| Sharing of experience by participants                  |             |3:15    |Distribute theoretical parts        |             
+|11.4| Sharing of participants' experience                    |             |3:15    |Distribute theoretical parts        |             
 |----|--------------------------------------------------------|-------------|--------|------------------------------------|
-|12. | Discuss Theory (optional)                              | 15          |        |                                    |
+|12. | Discuss Theory                                         | 15          |        |Optional                            |
 |----|--------------------------------------------------------|-------------|--------|------------------------------------|
