@@ -10,9 +10,9 @@
 |3.  |Introduction of the game                                | 5           |0:15    |Select leader and observers         |
 |----|--------------------------------------------------------|-------------|--------|------------------------------------|
 |4.  |__1st Session - Strong Directive Leadership__           |             |        |                                    | 
-|4.1 | Briefing of the leader_                                | 5           |        |Leader decides on a concept         | 
+|4.1 | Briefing of the leader                                 | 5           |        |Leader decides on a concept         | 
 |4.2 | Leaders meeting with the team                          | 10          |        |                                    | 
-|4.3 | Buildings construction                                 | 15          |0:50    |                                    |  
+|4.3 | Construction                                           | 15          |0:50    |                                    |  
 |----|--------------------------------------------------------|-------------|--------|------------------------------------|
 |5.  |__Feedback__                                            |             |        |Feedback questions 1                |          
 |5.1 | Write personal feedback                                | 3           |        |                                    |                 
@@ -20,7 +20,7 @@
 |----|--------------------------------------------------------|-------------|--------|------------------------------------|
 |6.  |__2nd Session - Without a Leader__                      |             |        |Change observers                    |
 |6.1 | Team Meeting                                           | 10          |        |                                    |         
-|6.2 | Building                                               | 15          |1:25    |                                    |             
+|6.2 | Construction                                           | 15          |1:25    |Use whole time slot of 25 minutes   |             
 |----|--------------------------------------------------------|-------------|--------|------------------------------------|
 |7.  |Break                                                   | 15          |1:40    |Brief leaders for session 3         |             
 |----|--------------------------------------------------------|-------------|--------|------------------------------------|
@@ -32,7 +32,7 @@
 |----|--------------------------------------------------------|-------------|--------|------------------------------------|
 |10. | __3rd Session - Process Leader__                       |             |        |Select new leaders. Change observers|
 |10.1| Meeting of leaders with teams                          | 10          |        |Group decides, what to build        |
-|10.2| Building                                               | 15          |2:30    |                                    |             
+|10.2| Construction                                           | 15          |2:30    |                                    |             
 |----|--------------------------------------------------------|-------------|--------|------------------------------------|
 |11. | __General Feedback__                                   |             |        |Feedback questions 3                |             
 |11.1| Write personal  feedback                               | 3           |        |                                    |             
