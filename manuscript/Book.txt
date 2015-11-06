@@ -3,6 +3,7 @@
 02_Abstract.txt
 03_TrainerInstructions.txt
 04_HowToRunTheGame.txt
+04_05_Timetable.txt
 05_SchedulePlayers.txt
 06_Observation.txt
 07_Feedback.txt
