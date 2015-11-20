@@ -1,44 +1,45 @@
 # Spielzeittabelle {#GameTimetable}
 
-|----|----------------------------------------------|------------|--------|-------------------------------------------------|
-| №  |__Schritt__                                   |__Zeit,Min__|__Ends__| __Bemerkungen__                                 |
-|====|==============================================|============|========|=================================================|
-|1.  |Einleitung durch die Trainer                  | 5          |0:05    |                                                 |
-|----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|2.  |Kleine Vostellungrunde                        | to 5       |        |Vorstellung der Teilnehmern                      |    
-|----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|3.  |Einführung in das Spiel                       | 5          |0:15    |Wählen Sie die Leader und Beobachter             |
-|----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|4.  |__Erste Sitzung__                             |            |        |                                                 | 
-|4.1 | Briefing der vorgesehenen Leader             | 5-10       |        |Leader muss über Konzept entscheiden             | 
-|4.2 | Leader bereitet die Sitzung vor              | 5          |        |                                                 | 
-|4.3 | Anführer leitet ein Meeting mit einem Team   | 10         |        |                                                 | 
-|4.4 |                                              | 15         |0:50    |                                                 |  
-|----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|5.  |__Feedback__                                  |            |        |Feedback-Fragen № 1                              |          
-|5.1 | Persönliche Erfahrungen notieren             | 3          |        |                                                 |                 
-|5.2 | Diskussion der Erfahrungen in der Gruppen    | 7          |1:00    |Stellen Sie Gruppen aus zwei Spieler und ein Beobachter zusammen|                     
-|----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|6.  |__Zweite Sitzung__                            |            |        |Wählen Sie neue Beobachter aus                   |
-|6.1 | Teams Meeting                                | 10         |        |                                                 |         
-|6.2 | Bauen                                        | 15         |1:25    |Achten Sie darauf, dass die vollen 25 Minuten genutzt werden.|             
-|----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|7.  |_Pause_                                       | 15         |1:40    |Bereiten sie der Leader der 3. Sitzung vor       |             
-|----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|8.  |__Feedback - 2. Sitzung__                     |            |        |Feedback-Fragen № 2                              | 
-|8.1 | Persönliche Erfahrungen notieren             | 3          |        |                                                 | 
-|8.2 | Diskussion der Erfahrungen in der Gruppen    | 7          |1:50    |                                                 |     
-|----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|9.  |_Pause_                                       | 15         |2:05    |                                                 |         
-|----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|10. | __3. Sitzung__                               |            |        |Erneut neue Leader und Beobachter.               |
-|10.1| Anführer leitet ein Meeting mit einem Team   | 10         |        |Eine Gruppe macht Entscheidung, was genau zu bauen|
-|10.2| Bauen                                        | 15         |2:30    |                                                 |             
-|----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|11. | __Allgemeine Feedback-Runde__                |            |        |Feedback-Fragen № 3                              |             
-|11.1| Persönliche Erfahrungen für Spiel notieren   | 3          |        |Machen Sie Fotos von den Gebäuden und bauen Sie sie auseinander|             
-|11.2| Feedback der Leiter                          |            |        |                                                 |             
-|11.3| Teilnehmer tauschen die Erfahrungen aus      |            |3:15    |Teilen Sie die Texte mit der Theorie aus         |             
-|----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|12. | __Diskussion der Theorie__                   | 15         |3:30    |Optional                                         |
-|----|----------------------------------------------|------------|--------|-------------------------------------------------|
+|----|----------------------------------------------|-----------|--------|-------------------------------------------------|
+| №  |__Schritt__                                   |__Zeit,    |__Ends__| __Bemerkungen__                                 |
+|    |                                              |__Minuten__|        |                                                 |
+|====|==============================================|:=========:|:======:|=================================================|
+|1.  |Einleitung durch die Trainer                  | 5         |0:05    |                                                 |
+|----|----------------------------------------------|-----------|--------|-------------------------------------------------|
+|2.  |Kleine Vostellungrunde                        | to 5      |        |Vorstellung der Teilnehmern                      |    
+|----|----------------------------------------------|-----------|--------|-------------------------------------------------|
+|3.  |Einführung in das Spiel                       | 5         |0:15    |Wählen Sie die Leader und Beobachter             |
+|----|----------------------------------------------|-----------|--------|-------------------------------------------------|
+|4.  |__Erste Sitzung__                             |           |        |                                                 | 
+|4.1 | Briefing der vorgesehenen Leader             | 5-10      |        |Leader muss über Konzept entscheiden             | 
+|4.2 | Leader bereitet die Sitzung vor              | 5         |        |                                                 | 
+|4.3 | Anführer leitet ein Meeting mit einem Team   | 10        |        |                                                 | 
+|4.4 |                                              | 15        |0:50    |                                                 |  
+|----|----------------------------------------------|-----------|--------|-------------------------------------------------|
+|5.  |__Feedback__                                  |           |        |Feedback-Fragen № 1                              |          
+|5.1 | Persönliche Erfahrungen notieren             | 3         |        |                                                 |                 
+|5.2 | Diskussion der Erfahrungen in der Gruppen    | 7         |1:00    |Stellen Sie Gruppen aus zwei Spieler und ein Beobachter zusammen|                     
+|----|----------------------------------------------|-----------|--------|-------------------------------------------------|
+|6.  |__Zweite Sitzung__                            |           |        |Wählen Sie neue Beobachter aus                   |
+|6.1 | Teams Meeting                                | 10        |        |                                                 |         
+|6.2 | Bauen                                        | 15        |1:25    |Achten Sie darauf, dass die vollen 25 Minuten genutzt werden.|             
+|----|----------------------------------------------|-----------|--------|-------------------------------------------------|
+|7.  |_Pause_                                       | 15        |1:40    |Bereiten sie der Leader der 3. Sitzung vor       |             
+|----|----------------------------------------------|-----------|--------|-------------------------------------------------|
+|8.  |__Feedback - 2. Sitzung__                     |           |        |Feedback-Fragen № 2                              | 
+|8.1 | Persönliche Erfahrungen notieren             | 3         |        |                                                 | 
+|8.2 | Diskussion der Erfahrungen in der Gruppen    | 7         |1:50    |                                                 |     
+|----|----------------------------------------------|-----------|--------|-------------------------------------------------|
+|9.  |_Pause_                                       | 15        |2:05    |                                                 |         
+|----|----------------------------------------------|-----------|--------|-------------------------------------------------|
+|10. | __3. Sitzung__                               |           |        |Erneut neue Leader und Beobachter.               |
+|10.1| Anführer leitet ein Meeting mit einem Team   | 10        |        |Eine Gruppe macht Entscheidung, was genau zu bauen|
+|10.2| Bauen                                        | 15        |2:30    |                                                 |             
+|----|----------------------------------------------|-----------|--------|-------------------------------------------------|
+|11. | __Allgemeine Feedback-Runde__                |           |        |Feedback-Fragen № 3                              |             
+|11.1| Persönliche Erfahrungen für Spiel notieren   | 3         |        |Machen Sie Fotos von den Gebäuden und bauen Sie sie auseinander|             
+|11.2| Feedback der Leiter                          |           |        |                                                 |             
+|11.3| Teilnehmer tauschen die Erfahrungen aus      |           |3:15    |Teilen Sie die Texte mit der Theorie aus         |             
+|----|----------------------------------------------|-----------|--------|-------------------------------------------------|
+|12. | __Diskussion der Theorie__                   | 15        |3:30    |Optional                                         |
+|----|----------------------------------------------|-----------|--------|-------------------------------------------------|
