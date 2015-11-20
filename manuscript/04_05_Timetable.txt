@@ -1,44 +1,44 @@
-# Overview Timetable {#GameTimetable}
+# Spielzeittabelle {#GameTimetable}
 
 |----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|\#  |__Steps__                                     |__Time,min__|__Ends__| __Remarks__                                     |
+| №  |__Schritt__                                   |__Zeit,Min__|__Ends__| __Bemerkungen__                                 |
 |====|==============================================|============|========|=================================================|
-|1.  |Introduction from trainers                    | 5          |0:05    |                                                 |
+|1.  |Einleitung durch die Trainer                  | 5          |0:05    |                                                 |
 |----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|2.  |Short roundtable                              | to 5       |        |Participants introduction                        |    
+|2.  |Kleiner Roundtable                            | to 5       |        |Vorstellung der Teilnehmern                      |    
 |----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|3.  |Introduction of the game                      | 5          |0:15    |Select leader and observers                      |
+|3.  |Einführung in das Spiel                       | 5          |0:15    |Wählen Sie die Leader und Beobachter             |
 |----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|4.  |__1st session__                               |            |        |                                                 | 
-|4.1 | Briefing of leader(s)                        | 5-10       |        |Leader decides on a concept                      | 
-|4.2 | Meeting preparation by leader                | 5          |        |                                                 | 
-|4.3 | Leader's meeting with the team               | 10         |        |                                                 | 
-|4.4 | Construction                                 | 15         |0:50    |                                                 |  
+|4.  |__Erste Sitzung__                             |            |        |                                                 | 
+|4.1 | Briefing der vorgesehenen Leader             | 5-10       |        |Leader muss über Konzept entscheiden             | 
+|4.2 | Leader bereitet die Sitzung vor              | 5          |        |                                                 | 
+|4.3 | Anführer leitet ein Meeting mit einem Team   | 10         |        |                                                 | 
+|4.4 |                                              | 15         |0:50    |                                                 |  
 |----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|5.  |__Feedback__                                  |            |        |Feedback questions 1                             |          
-|5.1 | Personal reflections                         | 3          |        |                                                 |                 
-|5.2 | Discuss feedback in groups                   | 7          |1:00    |Form groups 2 players + 1 observer               |                     
+|5.  |__Feedback__                                  |            |        |Feedback-Fragen № 1                              |          
+|5.1 | Persönliche Erfahrungen notieren             | 3          |        |                                                 |                 
+|5.2 | Diskussion der Erfahrungen in der Gruppen    | 7          |1:00    |Stellen Sie Gruppen aus zwei Spieler und ein Beobachter zusammen|                     
 |----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|6.  |__2nd session__                               |            |        |Change observers                                 |
-|6.1 | Team meeting                                 | 10         |        |                                                 |         
-|6.2 | Construction                                 | 15         |1:25    |Use whole time slot of 25 minutes                |             
+|6.  |__Zweite Sitzung__                            |            |        |Wählen Sie neue Beobachter aus                   |
+|6.1 | Teams Meeting                                | 10         |        |                                                 |         
+|6.2 | Bauen                                        | 15         |1:25    |Achten Sie darauf, dass die vollen 25 Minuten genutzt werden.|             
 |----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|7.  |_Break_                                       | 15         |1:40    |Brief leader(s) for 3rd session                  |             
+|7.  |_Pause_                                       | 15         |1:40    |Bereiten sie der Leader der 3. Sitzung vor       |             
 |----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|8.  |__Feedback - 2nd session__                    |            |        |Feedback questions 2                             | 
-|8.1 | Personal reflections                         | 3          |        |                                                 | 
-|8.2 | Discuss feedback in groups                   | 7          |1:50    |                                                 |     
+|8.  |__Feedback - 2. Sitzung __                    |            |        |Feedback-Fragen № 2                              | 
+|8.1 | Persönliche Erfahrungen notieren             | 3          |        |                                                 | 
+|8.2 | Diskussion der Erfahrungen in der Gruppen    | 7          |1:50    |                                                 |     
 |----|----------------------------------------------|------------|--------|-------------------------------------------------|
 |9.  |_Break_                                       | 15         |2:05    |                                                 |         
 |----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|10. | __3rd Session__                              |            |        |Select new leaders. Change observers             |
-|10.1| Meeting of leader(s) with team(s)            | 10         |        |Group decides, what to build                     |
-|10.2| Construction                                 | 15         |2:30    |                                                 |             
+|10. | __3. Sitzung __                              |            |        |Erneut neue Leader und Beobachter.               |
+|10.1| Anführer leitet ein Meeting mit einem Team   | 10         |        |Eine Gruppe macht Entscheidung, was genau zu bauen|
+|10.2| Bauen                                        | 15         |2:30    |                                                 |             
 |----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|11. | __General feedback__                         |            |        |Feedback questions 3                             |             
-|11.1| Personal reflections                         | 3          |        |Take pictures of buildings, then break them apart|             
-|11.2| Feedback of the leaders                      |            |        |                                                 |             
-|11.3| Sharing of participants' experience          |            |3:15    |Distribute theoretical parts                     |             
+|11. | __Allgemeine Feedback-Runde__                |            |        |Feedback-Fragen № 3                              |             
+|11.1| Persönliche Erfahrungen für Spiel notieren   | 3          |        |Machen Sie Fotos von den Gebäuden und bauen Sie sie auseinander|             
+|11.2| Feedback der Leiter                          |            |        |                                                 |             
+|11.3| Teilnehmer tauschen die Erfahrungen aus      |            |3:15    |Teilen Sie die Texte mit der Theorie aus         |             
 |----|----------------------------------------------|------------|--------|-------------------------------------------------|
-|12. | __Discuss theory__                           | 15         |3:30    |Optional                                         |
+|12. | __Diskussion der Theorie__                   | 15         |3:30    |Optional                                         |
 |----|----------------------------------------------|------------|--------|-------------------------------------------------|
