@@ -1,5 +1,6 @@
 00_Recommendations.txt
 01_Foreword.txt
+01_05_Foreword_Deutsch.txt
 02_Abstract.txt
 03_TrainerInstructions.txt
 04_HowToRunTheGame.txt

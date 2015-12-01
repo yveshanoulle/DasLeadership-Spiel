@@ -1,0 +1,20 @@
+# Vorwort zur deutschen Ausgabe {#VorwortDeutsch}
+
+Eine der größten Herausforderungen beim Coachen agiler Teams ist es, zu Beginn die Veränderungen zu erklären, die auf dem Weg zu einem agilen Entwicklungsmodus auftreten. 
+
+Wenn ich mit einem Kunden etwas besprach und ihm einen wirklich wichtigen Punkt erklärte, erntete ich schon öfters verständnislose Blicke, die zeigten, dass derjenige meinen Standpunkt überhaupt nicht nachvollziehen konnte. 
+
+Veränderung ist oft schwierig. Umso hilfreicher ist es, Werkzeuge zur Hand zu haben, die neue Ideen schön veranschaulichen und es ermöglichen, die eigenen ersten Erfahrungen damit zu sammeln.
+Experiental Learning(https://leanpub.com/Experiential), vor allem Spiele, sind eine der besten Möglichkeiten, Erwachsenen neue Ideen näherzubringen. Im Spiel kann man sich ohne Weiteres erlauben, Fehler zu machen. Außerdem lassen sich beim Spielen neue Dinge ausprobieren.
+
+Für Deutsche, die über eine reiche Kultur an Brettspielen verfügen, sollten Spiele für ernsthafte Zwecke nichts Ungewohntes sein. Aus unserer Erfahrung ist das Leadership-Spiel eine hervorragende Möglichkeit, unvoreingenommen verschiedene Führungsstile zu verdeutlichen. Dabei hat jeder Spieler nicht nur eine Menge zum Nachdenken, sondern auch Spaß.
+
+Als wir das Leadership-Spiel bei einem unserer Agilen Stammtische in Frankfurt am Main gespielt hatten und gleich zu Beginn die Begeisterung der Teilnehmer sahen, wuchs in uns die Begeisterung für die Idee, das Spiel ins Deutsche zu übersetzen. 
+
+Ich möchte dem Team danken, das diese Übersetzung ermöglicht hat, Dr. Diana Kupfer und Christian Hof, sowie dem Management der codecentric AG für die Unterstützung. Auch den Autoren der Originalfassung, Yves und Ignace Hanoulle, sowie Meike Mertsch gilt mein aufrichtiger Dank.
+
+Möge die Macht mit Ihnen sein. Ich wünsche Ihnen viel Spaß bei der Durchführung des Leadership-Spiels!
+
+Dr. Serhiy Yevtushenko
+
+[Dr. Serhiy Yevtushenko](https://leanpub.com/u/SerhiyYevtushenko)
