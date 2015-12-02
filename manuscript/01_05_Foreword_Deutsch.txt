@@ -2,10 +2,10 @@
 
 Eine der größten Herausforderungen beim Coachen agiler Teams ist es, zu Beginn die Veränderungen zu erklären, die auf dem Weg zu einem agilen Entwicklungsmodus auftreten. 
 
-Wenn ich mit einem Kunden etwas besprach und ihm einen wirklich wichtigen Punkt erklärte, erntete ich schon öfters verständnislose Blicke, die zeigten, dass derjenige meinen Standpunkt überhaupt nicht nachvollziehen konnte. 
+Wenn ich mit einem Kunden etwas bespreche und ihm einen wirklich wichtigen Punkt erkläre, ernte ich oft verständnislose Blicke, die zeigen, dass er meinen Standpunkt überhaupt nicht nachvollziehen kann. 
 
 Veränderung ist oft schwierig. Umso hilfreicher ist es, Werkzeuge zur Hand zu haben, die neue Ideen schön veranschaulichen und es ermöglichen, die eigenen ersten Erfahrungen damit zu sammeln.
-Experiental Learning(https://leanpub.com/Experiential), vor allem Spiele, sind eine der besten Möglichkeiten, Erwachsenen neue Ideen näherzubringen. Im Spiel kann man sich ohne Weiteres erlauben, Fehler zu machen. Außerdem lassen sich beim Spielen neue Dinge ausprobieren.
+[Experiential Learning (erfahrungsbasiertes Lernen)](https://leanpub.com/Experiential),  vor allem Spiele, sind eine der besten Möglichkeiten, Erwachsenen neue Ideen näherzubringen. Im Spiel kann man sich ohne Weiteres erlauben, Fehler zu machen. Außerdem lassen sich beim Spielen neue Dinge ausprobieren.
 
 Für Deutsche, die über eine reiche Kultur an Brettspielen verfügen, sollten Spiele für ernsthafte Zwecke nichts Ungewohntes sein. Aus unserer Erfahrung ist das Leadership-Spiel eine hervorragende Möglichkeit, unvoreingenommen verschiedene Führungsstile zu verdeutlichen. Dabei hat jeder Spieler nicht nur eine Menge zum Nachdenken, sondern auch Spaß.
 
