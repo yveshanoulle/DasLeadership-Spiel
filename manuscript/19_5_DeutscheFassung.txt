@@ -29,9 +29,6 @@ Diana Kupfer ist Community Managerin bei codecentric AG. Die promovierte Musikwi
 
 Christian Hof beschäftigt sich mit Big Data mithilfe des Hadoop Ökosystems, agilen Methoden sowie der Testautomatisierung.
 
-
-**Übersetzung:** Diana Kupfer
-
-**Kapitel [Zeitplan](#GameTimetable)** Serhiy Yevtushenko
-
-**Formatierung/Einrichtung:** Christian Hof, Serhiy Yevtushenko
++**Übersetzung:** Diana Kupfer
++**[Kapitel Zeitplan](#GameTimetable), deutsche Ausgaben in [Bibliographie](#Library)** Serhiy Yevtushenko
++**Formatierung/Einrichtung:** Christian Hof, Serhiy Yevtushenko
