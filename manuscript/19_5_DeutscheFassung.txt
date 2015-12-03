@@ -1,0 +1,31 @@
+# Über die deutsche Fassung {#DeutscheFassung}
+
+Im Sommer 2015 wurde das Leadership-Spiel von Mitarbeitern der codecentric AG beim [Agilen Stammtisch in Frankfurt/Main](http://asffm.blogspot.de/) durchgeführt. Zu diesem Anlass wurden einige Kapitel ins Deutsche übersetzt. Aufgrund der positiven Resonanz regte Serhiy Yevtushenko, Leiter des Agilen Stammtischs, an, das gesamte Buch ins Deutsche zu übersetzen.
+
+**Dr. Serhiy Yevtushenko**
+![Dr. Serhiy Yevtushenko](images/SerhiyYevtushenko.jpg)
+
+Serhiy Yevtushenko hat Glück noch am Ende des 20. Jahrhunderts über Agilität zu erfahren. Er war einer der Pioneere der Agilen Bewegung in der Ukraine,
+gehört zu den Mitgrundern der [Agile Ukraine](http://www.agileukraine.org/)  Gemeinschaft und Mitübersetzer von  Agile Manifesto ins ukrainisch
+(http://agilemanifesto.org/iso/uk/) und russisch (http://agilemanifesto.org/iso/ru/).
+Er hat an der Technische Universität Darmstadt promoviert. In der Laufe seines berüfliches Laufbahns hat er in agilen Teams in den Rollen von Software Entwickler bis Delivery Manager gespielt. 
+Seine Leidenschaft liegt in der Hilfe bei Übergang der Unternehmen zu agiler Entwicklung und Zusammenbau der effektiven Teams. 
+
+Kontakdaten von Serhiy Yevtushenko:
+* [Linkedin](https://de.linkedin.com/in/syevtushenko)
+* [XING](https://www.xing.com/profile/Serhiy_Yevtushenko)
+
+
+**Dr. Diana Kupfer**
+![Dr. Diana Kupfer](images/DianaKupfer.jpg)
+
+Diana Kupfer ist Community Managerin bei codecentric AG. Die promovierte Musikwissenschaftlerin war als Werbetexterin, Übersetzerin und IT-Journalistin tätig, bevor sie im April 2015 zur codecentric stieß. 
+
+**Christian Hof**
+![Christian Hof](images/ChristianHof.jpg)
+
+Christian Hof beschäftigt sich mit Big Data mithilfe des Hadoop Ökosystems, agilen Methoden sowie der Testautomatisierung.
+
+**Übersetzung:** Diana Kupfer
+**Kapitel {#GameTimetable}** Serhiy Yevtushenko
+**Formatierung/Einrichtung:** Christian Hof, Serhiy Yevtushenko

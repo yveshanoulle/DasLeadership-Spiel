@@ -21,6 +21,7 @@
 17_Acknowledgments.txt
 18_OtherAgileGames.txt
 19_Authors.txt
+19_5_DeutscheFassung.txt
 20_GameFeedback.txt
 21_History.txt
 22_Countries.txt

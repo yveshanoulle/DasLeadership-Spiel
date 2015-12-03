@@ -56,8 +56,3 @@ Kontaktdaten von Yves Hanoulle::
 Objectsoft bvba
 
 Congregatiestraat 16 9031 Drongen
-
-**Über die deutsche Fassung:**
-Im Sommer 2015 wurde das Leadership-Spiel von Mitarbeitern der codecentric AG beim Agilen Stammtisch in Frankfurt/Main durchgeführt. Zu diesem Anlass wurden einige Kapitel ins Deutsche übersetzt. Aufgrund der positiven Resonanz regte Serhiy Yevtushenko, Leiter des Agilen Stammtischs, an, das gesamte Buch ins Deutsche zu übersetzen.
-**Übersetzung:** Diana Kupfer
-**Formatierung/Einrichtung:** Christian Hof, Serhiy Yevtushenko
