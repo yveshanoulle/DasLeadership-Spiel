@@ -7,12 +7,12 @@
   * 15-Minuten-Sanduhr
   * ein großer Tisch
   * Flipchart (für organisatorische Zwecke) oder Whiteboard
-![](images/suppliers.png)
 * Kamera
 * Bücher über Leadership
 * 3 Karteikarten: rot, grün, gelb
 * 20 Kugelschreiber
 * Stoppuhr
+![](images/suppliers.png)
 * aufklebbare Namensschilder für alle
 * 2 schwarze Kappen für die Leader
 * weiße Kappen für die Beobachter
