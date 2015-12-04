@@ -12,12 +12,13 @@
 * 3 Karteikarten: rot, grün, gelb
 * 20 Kugelschreiber
 * Stoppuhr
+
+![](images/suppliers.png)
+
 * aufklebbare Namensschilder für alle
 * 2 schwarze Kappen für die Leader
 * weiße Kappen für die Beobachter
 * ein Gong (optional)
-![](images/suppliers.png)
-
 
 **Buchkapitel:**
 
