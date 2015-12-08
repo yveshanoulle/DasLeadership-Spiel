@@ -42,5 +42,5 @@ Christian Hof beschäftigt sich mit Big Data mithilfe des Hadoop Ökosystems, ag
 ***
 
 +  **Übersetzung:** Diana Kupfer
-+  **[Kapitel Zeitplan](#GameTimetable), deutsche Ausgaben in [Bibliographie](#Library)** Serhiy Yevtushenko
++  **Kapitel Zeitplan, deutsche Ausgaben in Bibliographie und deutsche Version von Bilder ** Serhiy Yevtushenko
 +  **Formatierung/Einrichtung:** Christian Hof, Serhiy Yevtushenko
