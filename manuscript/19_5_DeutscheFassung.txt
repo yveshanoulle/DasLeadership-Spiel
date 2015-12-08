@@ -17,6 +17,8 @@ Kontakdaten von Serhiy Yevtushenko::
 * [Linkedin](https://de.linkedin.com/in/syevtushenko)
 * [XING](https://www.xing.com/profile/Serhiy_Yevtushenko)
 
+***
+
 ![Dr. Diana Kupfer](images/DianaKupfer.jpg)
 
 **Dr. Diana Kupfer**
@@ -28,6 +30,7 @@ Kontakdaten von Diana Kupfer::
 * [Linkedin](https://de.linkedin.com/in/dr-diana-kupfer-16515459)
 * [Twitter](https://twitter.com/dianakupfer)
 
+***
 
 ![Christian Hof](images/ChristianHof.jpg)
 
