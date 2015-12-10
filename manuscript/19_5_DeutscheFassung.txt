@@ -45,5 +45,5 @@ Kontakdaten von Christian Hof::
 ***
 
 +  **Übersetzung:** Diana Kupfer
-+  **Kapitel Zeitplan, deutsche Ausgaben in Bibliographie und deutsche Version von Bilder ** Serhiy Yevtushenko
++  **Kapitel Zeitplan, deutsche Ausgaben in Bibliographie und deutsche Version von Bilder** Serhiy Yevtushenko
 +  **Formatierung/Einrichtung:** Christian Hof, Serhiy Yevtushenko
