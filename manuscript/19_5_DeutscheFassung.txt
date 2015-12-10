@@ -17,30 +17,25 @@ Kontakdaten von Serhiy Yevtushenko::
 * [Linkedin](https://de.linkedin.com/in/syevtushenko)
 * [XING](https://www.xing.com/profile/Serhiy_Yevtushenko)
 
-***
-
 **Dr. Diana Kupfer**
 
 Diana Kupfer ist Community Managerin bei codecentric AG. Die promovierte Musikwissenschaftlerin war als Werbetexterin, Übersetzerin und IT-Journalistin tätig, bevor sie im April 2015 zur codecentric stieß. 
-
-![Dr. Diana Kupfer](images/DianaKupfer.jpg)
 
 Kontakdaten von Diana Kupfer::
 
 * [Linkedin](https://de.linkedin.com/in/dr-diana-kupfer-16515459)
 * [Twitter](https://twitter.com/dianakupfer)
 
-***
+![Dr. Diana Kupfer](images/DianaKupfer.jpg)
 
 **Christian Hof**
 
-![Christian Hof](images/ChristianHof.jpg)
-
 Christian Hof beschäftigt sich mit Big Data mithilfe des Hadoop Ökosystems, agilen Methoden sowie der Testautomatisierung.
-
 Kontakdaten von Christian Hof::
 
 * [XING](https://www.xing.com/profile/Christian_Hof11)
+
+![Christian Hof](images/ChristianHof.jpg)
 
 ***
 
