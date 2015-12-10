@@ -31,6 +31,7 @@ Kontakdaten von Diana Kupfer::
 **Christian Hof**
 
 Christian Hof beschäftigt sich mit Big Data mithilfe des Hadoop Ökosystems, agilen Methoden sowie der Testautomatisierung.
+
 Kontakdaten von Christian Hof::
 
 * [XING](https://www.xing.com/profile/Christian_Hof11)
